@@ -12,8 +12,6 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 
-import com.acti_time.generice.FileLib;
-import com.acti_time.pom.LoginPage;
 
 public class BaseCLass {
 	public static WebDriver driver;
